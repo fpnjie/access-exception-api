@@ -1,0 +1,27 @@
+access-exception-api/
+│
+├── core/
+│   ├── migrations/
+│   │   └── __init__.py
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── cron.py
+│   ├── models.py
+│   ├── permissions.py
+│   ├── serializers.py
+│   ├── signals.py
+│   ├── urls.py
+│   └── views.py
+│
+├── myapi/
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+├── manage.py
+├── requirements.txt
+├── .gitignore
+└── README.md
